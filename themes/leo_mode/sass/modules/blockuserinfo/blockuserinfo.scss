@@ -1,0 +1,14 @@
+@import "compass";
+@import "theme_variables";
+
+.header_user_info{
+	text-transform: uppercase; @include rtl-padding(15px, 20px, 15px, 0); @include rtl-float-right();
+	.popup-title{
+	  	display: none;
+	}
+	.badge{@include rtl-margin-left(8px);}
+	ul.links li{
+		a{margin: 0 3px;}
+		.fa, .icon{@include rtl-margin-right(4px);}
+	}
+}

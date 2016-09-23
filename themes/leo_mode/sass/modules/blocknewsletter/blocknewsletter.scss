@@ -1,0 +1,58 @@
+@import "compass";
+@import "theme_variables";
+
+/* Block newsletter */
+#columns #newsletter_block_left {	 
+	.success_inline, .warning_inline {
+		@include rtl-text-align-left();
+		padding: 1px 0 0 0;
+		margin-bottom: -19px;	
+	}
+	.success_inline	{
+		color: #418B19;
+	}
+	.warning_inline {
+		color: #f13340;
+	}
+}
+/* Block newsletter footer */
+
+#footer{
+	#newsletter_block_left{
+		position: fixed; @include rtl-right(0); top: 60%; z-index: 99;
+		&.active{
+			width: auto;
+		}
+		.icon_newsletter{
+			background: $theme-color-secondary; color: $white; font-size: 18px; min-height: 48px; padding: 15px 10px; cursor: pointer;
+			width: 58px; height: 54px; @include rtl-float-left(); @include rtl-border-left(3px solid $theme-color-default); text-align: center;
+			&:hover{@include box-shadow(0 8px 18px 0 rgba(0, 0, 0, 0.28), 0 6px 20px 0 rgba(0, 0, 0, 0.28));}
+		}
+		.block_content{
+			padding: 20px; text-align:center; background: $white;
+			width: 320px; border: 1px solid $black; @include rtl-float-left();
+			@include transform(translate3d(100%, 0, 0));
+		    @include transition(all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94));
+		    margin-right: -400px;
+		    &.active {
+		    	@include transform(translate3d(0, 0, 0));
+		    	margin: 0;
+			}
+			&:hover{
+				@include box-shadow(0 8px 18px 0 rgba(0, 0, 0, 0.28), 0 6px 20px 0 rgba(0, 0, 0, 0.28));
+			}
+			.newsletter-input{
+				background: #fff; float: none; width: 248px; height: 44px; @include border-radius(50px); border-color: #e5e5e5;
+				@include box-shadow(none); text-align: center; font-size: 14px; font-weight: 400; color: $theme-color-tertiary;
+			}
+			.btn{float: none; margin-top: 15px; font-size: 12px; font-family: $font-family-senary; outline: none; min-width: 250px;}
+		}
+		.newsletter_info{}
+	}
+}
+.rtl #footer #newsletter_block_left .block_content{
+	@include transform(translate3d(-200%, 0, 0));
+	&.active {
+		@include transform(translate3d(0, 0, 0));
+	}
+}

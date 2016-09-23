@@ -1,0 +1,56 @@
+.carousel-control{
+  z-index: 10;
+  width: 20px;
+  height: 20px;
+  background: none!important;
+  @include opacity(1);
+  line-height: 1; 
+  top: -35px;
+  &:before{
+    position: absolute;
+    content: "\f105"; // "\f104"
+    font-family: $font-icon;
+    top: -7px;
+    left: 0;
+    color: #b3b3b3;
+    font-size: 35px;
+    text-shadow: none;
+  }
+  &.left{
+    left: auto;
+    right: 26px;
+    &:before{
+      content: "\f104";
+    }
+  }
+  &:hover{
+    &:before{color: $theme-color-default;}
+  }
+}
+
+//@mixin button-variant-outline($color, $background, $border, $colorhover, $bghover, $borderhover ) {
+.btn-inverse{
+  @include button-variant-outline($white, $theme-color-default, $theme-color-default, $black, $white , rgba(0, 0, 0, 0.2));
+} 
+.btn-outline{
+  @include button-variant-outline($black, $white, rgba(0, 0, 0, 0.2), $white,$theme-color-default, $theme-color-default);
+}
+.form-control:focus{
+  @include box-shadow(none);
+  outline: none;
+}
+.btn, .btn:focus{
+  outline: none;
+}
+.btn{
+  @include border-radius(40px);
+  padding: 0 15px;
+  height: 38px;
+  line-height: 37px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-family: $font-family-senary;
+  &:focus{
+    outline: none;
+  }
+}

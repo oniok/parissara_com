@@ -1,0 +1,110 @@
+@import "compass";
+@import "theme_variables";
+
+
+
+/*
+* 	Owl Carousel Owl Demo Theme 
+*	v1.3.3
+*/
+.owl-row {
+	margin: 0; 
+}
+
+.owl-carousel {
+	.owl-item {
+	  	padding: 0 9px;
+	  	
+	}
+}
+
+/* Styling Next and Prev buttons */
+
+.owl-theme {
+	.owl-controls {
+		text-align: center;
+		.owl-buttons {
+			width: 85px;
+			position: absolute;
+			height: 30px;
+			top: -44px;
+			@include rtl-right(0);
+			div{
+				position: absolute;
+				z-index: 10;
+			  	width: 30px;
+			  	height: 30px;
+			  	background: #f3f4f5;
+			  	font-size: 0;
+			  	line-height: 30px;
+			  	color: $nocolor;
+				@include border-radius(100%);
+				@include box-shadow(0 4px 8px 0 #fff);
+			  	&:before{
+				    content: "\f105";
+				    font-family: $font-icon;
+				    color: $carousel-control-color;
+				    font-size: 14px;
+			  	}
+			  	&.owl-prev{
+    				right: 45px;
+				    &:before{
+				      	content: "\f104";
+				    }
+			  	}
+				&.owl-next{
+					right: 10px;
+				}
+			  	&:hover{
+				    @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.35));
+    				@include transition(all 0.35s ease 0s);
+			  	}
+			}
+		}
+	}
+}
+/* Clickable class fix problem with hover on touch devices */
+/* Use it for non-touch hover action */
+.owl-theme .owl-controls.clickable .owl-buttons div:hover{
+	@include opacity(1);
+	text-decoration: none;
+}
+
+/* Styling Pagination*/
+
+.owl-theme .owl-controls .owl-page{
+	display: inline-block;
+	zoom: 1;
+	*display: inline;/*IE7 life-saver */
+}
+.owl-theme .owl-controls .owl-page span{
+	display: block;
+	width: 12px;
+	height: 12px;
+	margin: 5px 7px;
+	@include opacity(0.5);
+	@include border-radius(20px);
+	background: #869791;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+	@include opacity(1);
+}
+
+/* If PaginationNumbers is true */
+
+.owl-theme .owl-controls .owl-page span.owl-numbers{
+	height: auto;
+	width: auto;
+	color: #FFF;
+	padding: 2px 10px;
+	font-size: 12px;
+	@include border-radius(30px);
+}
+
+/* preloading images */
+.owl-item.loading{
+	min-height: 150px;
+	background: url(../img/AjaxLoader.gif) no-repeat center center
+}

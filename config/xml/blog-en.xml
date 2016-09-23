@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Sep 2016 08:27:27 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>8 Questions to Ask About Your eCommerce Search Function (Part one: questions 1 to 4)</title>
+		<link>https://www.prestashop.com/blog/en/8-questions-ask-ecommerce-search-function-part-one-questions-1-4/</link>
+		<comments>https://www.prestashop.com/blog/en/8-questions-ask-ecommerce-search-function-part-one-questions-1-4/#comments</comments>
+		<pubDate>Fri, 16 Sep 2016 08:27:27 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22027</guid>
+		<description><![CDATA[<p>Customers who use on-site search are far more likely to convert than those who simply browse for what they want. To ensure the best possible conversion rates and user experience retailers should analyse the performance and functionality of their on-site search. In this two-part article, we will examine the first 4 questions retailers should ask [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/8-questions-ask-ecommerce-search-function-part-one-questions-1-4/">8 Questions to Ask About Your eCommerce Search Function (Part one: questions 1 to 4)</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Customers who use on-site search are far more likely to convert than those who simply browse for what they want. To ensure the best possible conversion rates and user experience retailers should analyse the performance and functionality of their on-site search. In this two-part article, we will examine the first 4 questions retailers should ask when assessing their own search performance. (Stand by for Part 2 coming up next week!)<br />
+<span id="more-22027"></span></p>
+<h2>1) Can my search handle common mis-spellings and synonyms?</h2>
+<p>Check that on-site search can handle things such as typos and misspellings, slang and language variants. Nothing is more infuriating for a customer than typing a product name into the on-site search that they know is sold on the site, only for the site to fail to find the product, or even to suggest that the customer has ‘made a mistake’! Regular analysis of search term data (which can be done via <a href="https://www.wordtracker.com/academy/learn-seo/analytics/monitor-with-google-analytics" target="_blank">Google Analytics</a> or a reporting dashboard if you’re using a third party solution) should provide valuable insights into the most commonly misspelled search terms, as well as instances where a product is listed in the store catalog using one term, but customers regularly search for it using a completely different term.</p>
+<p><img class="alignnone size-full wp-image-22030" alt="8QuestionsSearchFunction01" src="https://www.prestashop.com/blog/en/files/2016/08/8QuestionsSearchFunction01.png" width="941" height="511" /></p>
+<p>This example from Oneills.com shows how their search solution (<a href="http://www.klevu.com" target="_blank">Klevu</a>) helps them to automatically deal with errors.</p>
+<p><strong><a class="twitter-share-button" title="Click to Tweet!" href="https://twitter.com/intent/tweet?text=Customers%20who%20use%20on-site%20search%20are%20far%20more%20likely%20to%20convert%20than%20those%20who%20simply%20browse%20for%20what%20they%20want.&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fen%2F8-questions-ask-ecommerce-search-function-part-one-questions-1-4&amp;via=PrestaShop" target="_blank">Customers who use on-site search are far more likely to convert than those who simply browse for what they want.<i class="fa fa-twitter"></i></a></strong></p>
+<h3>Different words for the same item</h3>
+<p>A classic example might be a fashion retailer who lists all of their sweaters as sweaters, ignoring the fact that customers often search for jumpers or pullovers. A smart search system that uses natural language processing can understand that sweater, jumper and pullover are all synonyms, but a standard keyword-based solution is unlikely to match the queries.</p>
+<h3>Spelling Mistakes</h3>
+<p>A store selling calendars would need to ensure that things like ‘calender’ is recognised as a mis-spelling of calendar and return the correct results, without implying that the customer has made a mistake.</p>
+<p>Another way to reduce the instances of mis-spellings is to provide suggestions around products and categories. This can avoid the customer having to type the entire search term and can therefore reduce errors, whilst also speeding up the process. It’s vital here that auto-suggest actually improves the user experience, so it must be regularly monitored for performance and accuracy. An auto-suggest tool that slows down the customer journey is a fast way to losing a potential sale.</p>
+<h3>The Redirect Option</h3>
+<p>Another option for resolving issues like this is to redirect some queries to a product list page in place of the search results. So for example, if someone types calandar, you could just apply a redirect for the destination URL to go to the main category landing page. Lots of larger merchants apply these redirects for the more generic queries, as top-level category pages are better merchandised than their search results page.</p>
+<p>Nothing is more infuriating than a site to failing to find a product sold on the site, or even suggesting the customer has ‘made a mistake’ :CLICK TO TWEET</p>
+<h2>2) Can my search handle all types of queries?</h2>
+<p>As ecommerce gets more sophisticated, so too do customer expectations. More and more customers use on-site search facilities to find answers to their questions, as well as searching for specific products. A review of site search data on many stores will reveal phrases like ‘opening hours’, ‘returns’, ‘delivery costs’ and ‘store locator’. It’s clear in these examples what the customer expects to see, but all too often, stores either present a zero results page, or, perhaps even worse, a page containing random products, which have somehow matched the search terms, via a keyword-driven search approach.</p>
+<h3>Tricky queries</h3>
+<p>A great example of how to get this type of query right is <a href="https://www.glitzysecrets.com/" target="_blank">Glitzy Secrets</a>, as can be seen below. Type in ‘delivery’ and there are various pages suggested that provide delivery information. Type ‘returns’ and a similar set of results is presented, giving all the information required.</p>
+<p><img class="alignnone size-full wp-image-22032" alt="8QuestionsSearchFunction02" src="https://www.prestashop.com/blog/en/files/2016/08/8QuestionsSearchFunction02.png" width="941" height="424" /></p>
+<p>A similar search for ‘delivery’ on the animal.co.uk website, however, doesn’t produce quite such a helpful response. A ‘no results found’ response is generated, despite the fact that the site does have a dedicated content page for delivery information, that could have been shown.</p>
+<p>Whilst UX issues like these might seem trivial, they do have a cumulative effect, which means it’s vital to do everything possible to tackle all identified weaknesses such as these.</p>
+<h2>3) Which and how many queries are returning zero results?</h2>
+<p>Probably the worst experience that on-site search can deliver is a ‘zero results’ page. Results pages that present irrelevant products offer a poor experience, but zero results is much worse. The zero results page is usually interpreted by the customer as meaning ‘We have no relevant products’, and is closely connected to high bounce rates.</p>
+<h3>Zero Results!</h3>
+<p>By analysing search query data, it’s likely that some common zero results queries could be fixed easily. Zero results pages are more likely to occur when the search platform is using a traditional keyword-driven approach to results, rather than using natural language processing. As an example, if a user types ‘strapped dresses’ into a search box, the old-fashioned approach could easily result in a zero result page, as they’re purely matching products based on the name.</p>
+<h3>Search by Attribute</h3>
+<p>Another example where a zero result set could occur is if a customer on a fashion site typed in a colour, hoping to see all products in that colour. Again, if the colour of the store’s products is held as a product attribute rather than being explicitly stated in the product name or description, then there is a risk of no results being shown, despite the store having many products available in that colour. A search system that can utilise product attributes, such as colour, size, manufacturer etc. will always deliver a better experience and more relevant results.</p>
+<h2>4) Are more generic queries better directed to category pages?</h2>
+<p>As on-site search becomes ever more sophisticated in terms of the technology and logic used to retrieve results, so too is the format of results developing. eCommerce is seeing a shift away from simple product results, to a more balanced set of results that includes popular related searches, blog posts / guides, CMS pages and related category links. This particularly helps customers who are at an early stage in their purchasing journey, and are using very generic search terms, such as ‘cameras’, for example. Many retailers are choosing to redirect the results page directly to the matching category page for search terms that are as broad as this. From a user experience perspective, this is better than seeing a huge list of search results, unrefined and presented in a seemingly random order. By analysing search term data, retailers can ensure that their search function is tuned to direct such generic queries straight to the relevant category.</p>
+<p><strong><a class="twitter-share-button" title="Click to Tweet!" href="https://twitter.com/intent/tweet?text=On-site%20search%20is%20more%20sophisticated%20in%20terms%20of%20the%20technology%20%26amp%3B%20logic%20used%20to%20retrieve%20results%2C%20so%20is%20the%20format%20of%20results.&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fen%2F8-questions-ask-ecommerce-search-function-part-one-questions-1-4&amp;via=PrestaShop" target="_blank">On-site search is more sophisticated in terms of the technology &amp; logic used to retrieve results, so is the format of results.<i class="fa fa-twitter"></i></a></strong></p>
+<h3>The Importance of Product Name</h3>
+<p>Also, a retailer that doesn’t adopt this technique risks losing sales, since, for example, a search for ‘mens shoes’ could easily produce inaccurate results if the men’s shoes that they stock do not contain the word ‘mens’ within their product name or description. If you don’t provide filters for users to refine results as well, this could be a more complex journey than using the category page or a product list page.</p>
+<p><strong>Further reading:</strong></p>
+<ul>
+<li>Definitive guide to ecommerce search &#8211; <a href="http://www.klevu.com/the-definitive-guide-to-ecommerce-site-search.html" target="_blank">http://www.klevu.com/the-definitive-guide-to-ecommerce-site-search.html</a> by <a href="http://www.klevu.com" target="_blank">Klevu</a></li>
+<li>Best practice for ecommerce search &#8211; <a href="https://econsultancy.com/blog/66658-24-best-practice-tips-for-ecommerce-site-search/" target="_blank">https://econsultancy.com/blog/66658-24-best-practice-tips-for-ecommerce-site-search/</a> by <a href="https://econsultancy.com" target="_blank">Econsultancy</a></li>
+<li>The state of ecommerce site search &#8211; <a href="https://www.smashingmagazine.com/2014/08/the-current-state-of-e-commerce-search/" target="_blank">https://www.smashingmagazine.com/2014/08/the-current-state-of-e-commerce-search/</a> by <a href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a></li>
+<li>50 sites with excellent search &#8211; <a href="http://baymard.com/ecommerce-search/benchmark/site-reviews" target="_blank">http://baymard.com/ecommerce-search/benchmark/site-reviews</a> by <a href="http://baymard.com" target="_blank">Baymard</a></li>
+<li>Some really good general tips for more advanced search &#8211; <a href="https://www.pinpointdesigns.co.uk/optimising-magentos-search-function/" target="_blank">https://www.pinpointdesigns.co.uk/optimising-magentos-search-function/</a> by <a href="https://www.pinpointdesigns.co.uk" target="_blank">Pinpoint</a></li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p><img class=" wp-image-13454 alignleft" alt="paul_rogers" src="https://www.prestashop.com/blog/en/files/2016/09/paul_rogers.png" width="252" height="252" /></p>
+<p><a href="https://paulnrogers.com/" target="_blank">Paul Rogers</a> is an ecommerce and digital marketing consultant based in London, UK. Paul has worked in a variety of ecommerce-focused roles, for agencies, merchants and as a consultant. Now concentrating on a smaller set of clients, mostly focusing on strategy and ecommerce technology, Paul also recently started <a href="https://replatforming.com/" target="_blank">Replatforming.com</a>.</p>
+<p><strong>Social Links : </strong><br />
+<a href="http://www.twitter.com/paulnrogers" target="_blank">Twitter.com/paulnrogers</a><br />
+<a href="https://www.linkedin.com/in/paulnrogers" target="_blank">Linkedin.com/in/paulnrogers</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/8-questions-ask-ecommerce-search-function-part-one-questions-1-4/">8 Questions to Ask About Your eCommerce Search Function (Part one: questions 1 to 4)</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/8-questions-ask-ecommerce-search-function-part-one-questions-1-4/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why people help translate software #OpenSourceHero</title>
+		<link>https://www.prestashop.com/blog/en/people-help-translate-software-opensourcehero/</link>
+		<comments>https://www.prestashop.com/blog/en/people-help-translate-software-opensourcehero/#comments</comments>
+		<pubDate>Wed, 14 Sep 2016 09:29:47 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Ecommerce Trends]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22080</guid>
+		<description><![CDATA[<p>Meet our translation #OpenSourceHero Jesús Ruiz Garcí­a. Open Source is all about continuous improvement to free software through collaborations that span the globe. Here at PrestaShop we are proud to offer our eCommerce software for free and have it constantly enhanced, revised and upgraded by a community of more than a million contributors from every [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/people-help-translate-software-opensourcehero/">Why people help translate software #OpenSourceHero</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2>Meet our translation #OpenSourceHero Jesús Ruiz Garcí­a.</h2>
+<p>Open Source is all about continuous improvement to free software through collaborations that span the globe. Here at PrestaShop we are proud to offer our eCommerce software for free and have it constantly enhanced, revised and upgraded by a community of more than a million contributors from every country, culture and background you can imagine…and in many languages. Too ambitious you think?<span id="more-22080"></span></p>
+<p>Not when we have our #1million #OpenSource community behind us.</p>
+<p>At the forefront of this community are a bunch of people, who we refer to as heroes, those who go above and beyond to adapt our offer to their needs and the needs of their local community.</p>
+<p>One these heroes is old-school video game fanatic, 35 year old <a href="https://twitter.com/jesusgenialogic" target="_blank">Jesús Ruiz Garcí­a</a>. He specializes in translating PrestaShop into his native Spanish and talks to us about being an #OpenSourceHero translator.</p>
+<p>“<em>Participating in PrestaShop open source helps me observe “real world” complex software development, and get an insider vision of how this group of great professionals work.</em></p>
+<p><em>Why am I doing all this? In five simple words: To Learn From The Best.</em></p>
+<p><em>It’s an exercise that forces you to deeply understand every detail of the software so that you can then communicate this in your native language. This applies to translating elements of the software itself as well as documentation such as the upgrade guide, design guide and programming guide.</em></p>
+<p><strong><a class="twitter-share-button" title="Click to Tweet!" href="https://twitter.com/intent/tweet?text=What%20is%20an%20exercise%20that%20forces%20you%20to%20deeply%20understand%20every%20detail%20of%20software%3F&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fen%2Fpeople-help-translate-software-opensourcehero&amp;via=PrestaShop&amp;hashtags=Translation,OpenSourceHero,PrestaShop" target="_blank">What is an exercise that forces you to deeply understand every detail of software? Translation<i class="fa fa-twitter"></i></a></strong></p>
+<p><em></em><em>My software vocabulary has also improved a lot.</em></p>
+<p><em>And honestly, it’s a pleasure to do it. I feel that my work is valued and this is not always the case on a these kinds of participatory project, which makes it even more important.</em></p>
+<p><em>And the other side of the coin is that it’s a selfless act. It creates a way for people who do not understand a certain language to be able to use the software. And that feels good.</em></p>
+<p><em style="line-height: 1.5;">I discovered PrestaShop end of 2012, and since then I’ve been an enthusiast. I had already been contributing to the Open Source software and I actually started translating a few years when there was a hitch in one of the systems. Instructions on how to improve the situation were initially published to the community in English, I knew Spanish speakers would have been happy to jump is so I translated it. I then went on to translate the PrestaShop User Guide.</em></p>
+<p><em>Basically I was at the right place at the right time, but I definitely wouldn’t have stuck around to help more if it wasn’t for the patience of the PrestaShop team. I must have translated around 250,000 words of software and documentation for the PrestaShop project by now.</em></p>
+<p><em>My top translating tip for is to always have a dictionary of words/terms most used in PrestaShop, and a work style guide, that is shared by all translators involved in the whatever project you are working on, a vital element if you aim to provide a consistent and accurate translation. This tip is really fundamental for translation projects such as: PHP doc, Microsoft MSDN… And actually translation in general.</em></p>
+<p><em>Collaborating with PrestaShop is incredible. In addition, the team always considers our suggestions and ideas, which is essential for people to feel attached to a project.</em>”</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/people-help-translate-software-opensourcehero/">Why people help translate software #OpenSourceHero</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/people-help-translate-software-opensourcehero/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to increase eCommerce sales with Google Shopping</title>
+		<link>https://www.prestashop.com/blog/en/increase-ecommerce-sales-google-shopping/</link>
+		<comments>https://www.prestashop.com/blog/en/increase-ecommerce-sales-google-shopping/#comments</comments>
+		<pubDate>Mon, 12 Sep 2016 09:28:06 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22070</guid>
+		<description><![CDATA[<p>New insight and tips! Google Shopping offers a more visual way to bring products front and center on Google Search results and other Google properties. The potential to boost online sales with Google Shopping is massive but you need to know these insider tricks to make it work for your online offer. So, if you [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/increase-ecommerce-sales-google-shopping/">How to increase eCommerce sales with Google Shopping</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>New insight and tips! Google Shopping offers a more visual way to bring products front and center on Google Search results and other Google properties. The potential to boost online sales with Google Shopping is massive but you need to know these insider tricks to make it work for your online offer.<br />
+<span id="more-22070"></span><br />
+So, if you are looking to master the latest technology from Google in order to boost conversion, and increase your revenue then this short video is well worth a watch.</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/o6Cd9RmqdBc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align: center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=google%20shopping" target="_blank">Watch more videos</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/increase-ecommerce-sales-google-shopping/">How to increase eCommerce sales with Google Shopping</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/increase-ecommerce-sales-google-shopping/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Our runway selection of 6 online fashion stores</title>
+		<link>https://www.prestashop.com/blog/en/runway-selection-6-online-fashion-stores/</link>
+		<comments>https://www.prestashop.com/blog/en/runway-selection-6-online-fashion-stores/#comments</comments>
+		<pubDate>Wed, 07 Sep 2016 13:30:39 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Ecommerce Trends]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22042</guid>
+		<description><![CDATA[<p>Online fashion stores as an extension of brand design: Our top six picks To kick off Spring Summer fashion weeks around the world, we’ve selected six online fashion retailers that communicate their design aesthetic not only through the clothing they create, but also through how they present it on their online store. These six fashion [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/runway-selection-6-online-fashion-stores/">Our runway selection of 6 online fashion stores</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2>Online fashion stores as an extension of brand design: Our top six picks</h2>
+<p>To kick off Spring Summer fashion weeks around the world, we’ve selected six online fashion retailers that communicate their design aesthetic not only through the clothing they create, but also through how they present it on their online store.</p>
+<p><span id="more-22042"></span></p>
+<p>These six fashion eRetailers recently caught our style eye for their carefully chosen user interfaces, intelligent use of color, and an overall style consistent with their brand story and positioning.</p>
+<p>Now is the moment to upgrade your online fashion store, so grab some inspiration from this diverse selection of PrestaShop online clothing stores. (And don’t forget to check out our <a href="https://www.prestashop.com/blog/en/nine-essential-features-online-fashion-accessories-store/">must-have features list here</a>).</p>
+<p><strong><a class="twitter-share-button" title="Click to Tweet!" href="https://twitter.com/intent/tweet?text=Check%20out%20how%20these%20online%20fashion%20stores%20use%20site%20design%20to%20make%20their%20brand%20story%20shine&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fen%2Frunway-selection-6-online-fashion-stores&amp;via=PrestaShop" target="_blank" data-size="default">Check out how these online fashion stores use site design to make their brand story shine   <i class="fa fa-twitter"></i></a></strong></p>
+<h2>1) Ba&amp;sh</h2>
+<p>Contemporary Fashion &#8211; France<br />
+<a href="https://ba-sh.com/fr/en/" target="_blank">Check out their site here</a> ( https://ba-sh.com/fr/en/)</p>
+<p>A joint creation by French women Barbara Boccara and Sharon Krief, Ba&amp;sh is all about contemporary fashion with classic lines. With a brick-and-mortar presence in more than seven countries, the online store is a welcome addition for their very international clientele.</p>
+<p><strong>Aesthetic:</strong> Paris chic: airy and simplistic, yet warm and modern.<br />
+Why we like it: The spacious feeling, emphasized by the white background and elegant slim fonts, puts the clothing in the spotlight. Ba&amp;sh is about silhouette, and while the header slider offers oversized artistic portraits to immediately establish warmth and the unique brand aesthetic, the clothing product shots adhere to a minimalist approach to deliver a better user experience in-line with the brand’s understated chic.</p>
+<p><strong>Features:</strong> Product pages offering six multiple photos from different angles and simple product descriptions that are easy to navigate. Color scheme: pale grey on white.</p>
+<p><img class="alignnone size-full wp-image-22046" alt="OurTop_Bash" src="https://www.prestashop.com/blog/en/files/2016/09/OurTop_Bash.jpg" width="2500" height="1312" /></p>
+<h2>2) Bimba y Lola</h2>
+<p><a href="http://www.bimbaylola.com" target="_blank">Check out their site here</a> (www.bimbaylola.com)</p>
+<p>Concept Fashion Spanish</p>
+<p>This quirky Spanish womenswear brand focuses on prints and fabrics, while keeping silhouettes minimalist. They also offer shoes and an extensive range of jewelry and accessories, such as scarfs, hats and iphone cases, all echoing the decorative, quirky prints of their clothing.</p>
+<p><strong>Aesthetic:</strong> “Beautiful kooky”, boho, bright quirky.<br />
+Why we like it: The site, like the clothing, is on the very right side of “nearly kitsch”. The fluorescent side bar complements the floating artistic photos. Scrolling down the minimalist homepage, we nearly mistook it for a concept photography site.</p>
+<p><strong>Features:</strong> Direct category selection from side bar means customers are at checkout in three clicks. Product pages offer full-size images of each angle on scroll so one gets a real feel for the item. Search, shopping basket, social and contact links take up little space on the smaller right sidebar, but remain prominent and easy to decipher. An example to follow.</p>
+<p><img class="alignnone size-full wp-image-22047" alt="OurTop_BimbaYLola" src="https://www.prestashop.com/blog/en/files/2016/09/OurTop_BimbaYLola.jpg" width="2500" height="1312" /></p>
+<p><strong><a target="_blank" title="Click to Tweet!" class="twitter-share-button" href="https://twitter.com/intent/tweet?text=A%20fashion%20eRetail%20site%20on%20the%20very%20right%20side%20of%20%E2%80%9Cnearly%20kitsch%E2%80%9D%20Check%20out%20our%206%20top%20picks&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fen%2Frunway-selection-6-online-fashion-stores&amp;via=PrestaShop" data-size="default">A fashion eRetail site on the very right side of “nearly kitsch” Check out our 6 top picks&nbsp;&nbsp;&nbsp;<i class="fa fa-twitter"></i></a></strong></p>
+<h2>3) Faguo</h2>
+<p>French Men’s Footwear<br />
+<a href="http://www.faguo-store.com/en/" target="_blank">Check out their site here</a> (http://www.faguo-store.com/en)</p>
+<p><em>This French men’s shoe store also offers a limited selection of accessories, clothing and women’s shoes. The idea? For each pair of shoes sold a tree is planted in France.</em></p>
+<p><strong>Aesthetic:</strong> Authentic, down-to-earth, hands-on, no-nonsense.<br />
+Why we like it: This simple site is blog-meets-online-store. Product pages are easy to view and display a high resolution pop up of items when opened. The eBoutique seems almost secondary to the brand story of two Paris friends and their successful launch of a sustainable brand that respects the environment.</p>
+<p><strong>Features:</strong> Direct category selection from side bar means customers are at checkout in three clicks. Product pages offer full size images of each angle on scroll to give a complete idea of the item. We liked the map displaying the location of planted trees in the “Universe” category, and the homepage widget showing how many trees have been planted thanks to the brand.</p>
+<p><img class="alignnone size-full wp-image-22048" alt="OurTop_Faguo" src="https://www.prestashop.com/blog/en/files/2016/09/OurTop_Faguo.jpg" width="2500" height="1312" /></p>
+<p><strong><a target="_blank" title="Click to Tweet!" class="twitter-share-button" href="https://twitter.com/intent/tweet?text=This%20eBoutique%20is%20secondary%20to%20the%20brand%20story%20of%20two%20Paris%20friends%20%26%20a%20sustainable%20brand%20that%20respects%20the%20environment&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fen%2Frunway-selection-6-online-fashion-stores&amp;via=PrestaShop" data-size="default">This eBoutique is secondary to the brand story of two Paris friends &#038; a sustainable brand that respects the environment&nbsp;&nbsp;&nbsp;<i class="fa fa-twitter"></i></a></strong></p>
+<h2>4) Manoush</h2>
+<p>High-end women’s fashion France<br />
+<a href="http://www.manoush.com/e-boutique" target="_blank">Check out their site here</a> (http://www.manoush.com/e-boutique)</p>
+<p>Founded in 2002 and with a brick-and mortar-presence in more than 24 countries, MANOUSH is the French fashion house of designer Frédérique Trou-Roy. Today, inspired by different cultures from around the world, the brand’s original inspiration came out of a trip to Morocco. Subsequent collections have been inspired by provinces in India, the Middle East and Africa.</p>
+<p><strong>Aesthetic:</strong> High-end, feminine, bohemian and artisanal.<br />
+Why we like it: The importance of a site’s background can’t be underestimated, and this site is the proof. While many online fashion stores play it safe with a light background to keep things easy on the eye, this brand has dared to be different. With the delicate print they manage to create a scrapbook-like effect in line with the brand’s travel theme.</p>
+<p><strong>Features:</strong> Product pages with vertical scroll of large size product views. We like the easy to use language choice buttons on the bottom right.</p>
+<p><span style="line-height: 1.5;"><img class="alignnone size-full wp-image-22050" alt="OurTop_Manoush" src="https://www.prestashop.com/blog/en/files/2016/09/OurTop_Manoush.jpg" width="2500" height="1312" /></span></p>
+<h2>5) Envie de Fraises</h2>
+<p><a href="http://www.enviedefraise.fr/inspirations" target="_blank">Check out their site here</a> (http://www.enviedefraise.fr/inspirations)</p>
+<p>Founded in 2006, Envie de Fraises is a leading European maternity brand only available online, with a trendy offer that includes essential pieces for modern moms-to-be. The brand is headquartered in Paris and the clothing is manufactured in France.</p>
+<p><strong>Aesthetic:</strong> Quality, French-made maternity wear and accessories.<br />
+Why we like it: The site offers a huge selection that includes pretty much everything a woman could need during her pregnancy and nursing period. Yet the navigation is easy and instinctive. It’s easy to search for a specific item or browse categories such as inspiration, nursing or family, from the most practical basics to seasonal fashion collections.</p>
+<p><strong>Features:</strong> Great navigation. In-context product shots keep the site looking lively and fun without being overwhelming.</p>
+<p><img class="alignnone size-full wp-image-22051" alt="OurTop_EnvieDeFraise" src="https://www.prestashop.com/blog/en/files/2016/09/OurTop_EnvieDeFraise.jpg" width="2500" height="1312" /></p>
+<h2>6) Custo Barcelona</h2>
+<p><a href="https://custo.com/ue/en/" target="_blank">Check out their site here</a> (https://custo.com/ue/en/)</p>
+<p>&nbsp;</p>
+<p>Started by brothers Custo and David Dalmau in 1981, Custo Barcelona was born on a motorcycle trip across America. Inspired by the lax attitude of southern California, the pair returned to their native Barcelona and started a business crafting T-shirts for men and women with screen-prints and illustrations. Now the brand extends to everything from suits to swimwear, and it’s still the colors and prints that keep bringing customers back.</p>
+<p>&nbsp;</p>
+<p><strong>Aesthetic:</strong> Bold, bright, and psychedelic<br />
+Why we like it: Considering 85% of Custo Barcelona’s sales come from international sales (according to this <a href="http://nymag.com/thecut/fashion/designers/custo-barcelona/" target="_blank">NY mag profile</a>), their online presence is more than a detail. The extravagant style of the clothing is balanced by simple menus and a block layout displaying mixture of runway, product and lookbook shots.</p>
+<p><strong>Features:</strong> Dynamic product category pages jump to a side angle view on scroll over. An innovative product view filters by size and price, as well as view selection, to display more or fewer items horizontally for those who are sick of scroll.</p>
+<p>&nbsp;</p>
+<p><span style="line-height: 1.5;"><img class="alignnone size-full wp-image-22052" alt="OurTop_Custo" src="https://www.prestashop.com/blog/en/files/2016/09/OurTop_Custo.jpg" width="2500" height="1312" /></span></p>
+<p>If you enjoyed browsing this selection,<a href="https://www.prestashop.com/blog/en/lookbook-ecommerce-design-inspiration-2016/"> download our Lookbook: Ecommerce Design Inspiration for 2016 </a>for more inspiration.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/runway-selection-6-online-fashion-stores/">Our runway selection of 6 online fashion stores</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/runway-selection-6-online-fashion-stores/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4 tips to boost international sales quickly</title>
+		<link>https://www.prestashop.com/blog/en/4-tips-boost-international-sales-quickly/</link>
+		<comments>https://www.prestashop.com/blog/en/4-tips-boost-international-sales-quickly/#comments</comments>
+		<pubDate>Tue, 06 Sep 2016 07:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22034</guid>
+		<description><![CDATA[<p>Learn from the expert! Spanish payment advisor Steven Beamer from Ingenico, gives us the low down on on how to boost international sales quickly in four simple and insightful tips. We talk about the importance of creating a local personalised customer experience to being change ready.  So, if you are looking to get international, build [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/4-tips-boost-international-sales-quickly/">4 tips to boost international sales quickly</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Learn from the expert! Spanish payment advisor Steven Beamer from Ingenico, gives us the low down on on how to boost international sales quickly in four simple and insightful tips.</p>
+<p><span id="more-22034"></span></p>
+<p>We talk about the importance of creating a local personalised customer experience to being change ready.  So, if you are looking to get international, build trust, break down the traditional borders, boost conversion, and increase your revenue then this short video is well worth a watch.</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/h7gqrIM0leM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align: center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=ingenico" target="_blank">Watch more videos</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/4-tips-boost-international-sales-quickly/">4 tips to boost international sales quickly</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/4-tips-boost-international-sales-quickly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Starting an Online Business: 4 awesome eCommerce ideas to find your niche</title>
+		<link>https://www.prestashop.com/blog/en/starting-online-business-4-awesome-ecommerce-ideas-find-niche/</link>
+		<comments>https://www.prestashop.com/blog/en/starting-online-business-4-awesome-ecommerce-ideas-find-niche/#comments</comments>
+		<pubDate>Tue, 30 Aug 2016 09:01:30 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22019</guid>
+		<description><![CDATA[<p>Finding a unique niche to create a strong eCommerce brand identity is becoming increasingly difficult. We take a look at a range of original brand concepts that shine. Think product traceability by revisiting traditional flower delivery with Blooms online store, or how about Ahlavache? The online butcher offering meat delivery sourced directly from producers in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/starting-online-business-4-awesome-ecommerce-ideas-find-niche/">Starting an Online Business: 4 awesome eCommerce ideas to find your niche</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Finding a unique niche to create a strong eCommerce brand identity is becoming increasingly difficult.<br />
+We take a look at a range of original brand concepts that shine.<br />
+Think product traceability by revisiting traditional flower delivery with Blooms online store, or how about Ahlavache?<br />
+The online butcher offering meat delivery sourced directly from producers in the founder’s home region.<br />
+Take a lesson in brand storytelling thanks to the success of these back-to-the-source trends<br />
+<span id="more-22019"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/ExXooQjFC_Y?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f; border: 1px solid #b31217; border-bottom: 3px solid #b31217; margin: 20px 0 0; color: #fff;" href="https://www.youtube.com/user/prestashop?utm_source=blog&#038;utm_medium=article&#038;utm_campaign=youtube&#038;utm_content=prestashop" target="_blank"><i class="fa fa-youtube-play"></i> Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/starting-online-business-4-awesome-ecommerce-ideas-find-niche/">Starting an Online Business: 4 awesome eCommerce ideas to find your niche</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/starting-online-business-4-awesome-ecommerce-ideas-find-niche/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nominate PrestaShop! in the 2016 CMS Critic Awards</title>
+		<link>https://www.prestashop.com/blog/en/nominate-prestashop-2016-critics-choice-cms-awards/</link>
+		<comments>https://www.prestashop.com/blog/en/nominate-prestashop-2016-critics-choice-cms-awards/#comments</comments>
+		<pubDate>Wed, 10 Aug 2016 08:35:33 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22009</guid>
+		<description><![CDATA[<p>We are once again running for the CMS Critic Awards. Please help us get nominated in the categories: Best Open Source CMS and Best eCommerce Software Nominations close on September first, so go here to lend your support. There is no time to lose. Please nominate us in the following two categories: Best Open Source [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/nominate-prestashop-2016-critics-choice-cms-awards/">Nominate PrestaShop! in the 2016 CMS Critic Awards</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>We are once again running for the CMS Critic Awards.</p>
+<p>Please help us get nominated in the categories: Best Open Source CMS and Best eCommerce Software Nominations close on September first, so go here to lend your support. There is no time to lose.</p>
+<p><span id="more-22009"></span></p>
+<p>Please nominate us in the following two categories:</p>
+<ul>
+<li>Best Open Source CMS</li>
+<li>Best eCommerce Software</li>
+</ul>
+<p style="text-align: center"><a class="btn btn-sucess" style="background-color: #2f2f2f;border: 1px solid #191717;border-bottom: 3px solid #292727;margin: 20px 0 0;color: #fff" href="https://goo.gl/Id19gi" target="_blank"><i class="fa fa-ticket"></i>   Submit Your Nomination</a></p>
+<p>We really appreciate your support! Help us spread the word by using the social sharing icons at the bottom of this blog post. We’ll keep you posted on the results!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/nominate-prestashop-2016-critics-choice-cms-awards/">Nominate PrestaShop! in the 2016 CMS Critic Awards</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/nominate-prestashop-2016-critics-choice-cms-awards/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is Accelerated Mobile Pages (AMP) &amp; How Can It Help My Website?</title>
+		<link>https://www.prestashop.com/blog/en/accelerated-mobile-pages-amp-can-help-website/</link>
+		<comments>https://www.prestashop.com/blog/en/accelerated-mobile-pages-amp-can-help-website/#comments</comments>
+		<pubDate>Mon, 01 Aug 2016 07:32:06 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21895</guid>
+		<description><![CDATA[<p>Since Google launched Accelerated Mobile Pages (AMP), an open source initiative, the world has quickly adapted to it. Considered to speed up mobile browsing, the project has had the cooperation of many big names in the technology industry. But what is AMP, how does it affect your SEO efforts and what benefits can your website [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/accelerated-mobile-pages-amp-can-help-website/">What is Accelerated Mobile Pages (AMP) &amp; How Can It Help My Website?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Since Google launched Accelerated Mobile Pages (AMP), an open source initiative, the world has quickly adapted to it. Considered to speed up mobile browsing, the project has had the cooperation of many big names in the technology industry.</p>
+<p><span id="more-21895"></span></p>
+<p>But what is AMP, how does it affect your SEO efforts and what benefits can your website reap from it? Here’s the whole story.</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/08/1-amp.jpg" alt="1 amp" width="800" height="400" class="aligncenter size-full wp-image-22006" /></p>
+<h2><span style="color: #078ac0">What is AMP?</span></h2>
+<p>Accelerated Mobile Pages or AMP is an Open-source coding standard that is developed to allow web pages on mobile phones to load faster. AMP enables publishers to take heavy and clunky web pages and streamline them.</p>
+<p>To effectively run these AMP sites, a thin version of HTML is included rather than the bulky website version. This slim line of code allows sites to load faster in smaller spaces, such as your smartphones.</p>
+<p>Features of an AMP website include;</p>
+<ul>
+<li>Use of CSS and HTML is streamlined, with the size of inline CSS in less than 50kb.</li>
+<li>Includes Image Lazy Load, which means images appear only when you scroll down.</li>
+<li>Ads and Analytics are accepted on AMP, just like regular web pages.</li>
+<li>No Javascript should be used.</li>
+<li>AMP sites must be validated with the AMP Validator which comes bundled with the AMP JS Library.</li>
+<li>Custom fonts must be specially loaded, and image height and width must be declared.</li>
+<li>Forms are not allowed.</li>
+<li><span style="line-height: 1.5">Videos can be included by using AMP approved extensions. </span></li>
+</ul>
+<p>All these restrictions ensure quicker loading times and will eliminate the frustration of waiting for a long time to access content.</p>
+<h2><span style="color: #078ac0">What are the benefits of AMP?</span></h2>
+<ul>
+<li>Faster Load Times</li>
+</ul>
+<p><span style="line-height: 1.5">By far, the greatest advantage of Accelerated Mobile Pages is quick loading web pages. </span></p>
+<p>Have you ever tried to access content from your smartphone? Then, you would understand the long wait you have to endure due to the slow loading speeds. With most users on a slow-internet pack, the speed offered is simply not enough to access information on-the-go.</p>
+<p>However, with AMP, you can access content faster. According to Google, AMP web pages load 15-85% faster than the non-AMP websites. With faster loading sites, you give your users a better experience. If the users have quick access to information, they will most certainly stay on your website longer.</p>
+<ul>
+<li>SEO Benefits:</li>
+</ul>
+<p>It is pretty evident that the future is mobile, and Google is an advocate of this idea too. So if your website is mobile-friendly, Google caches these sites quicker thus improving your ranking. Also, the longer a user stays on your page, the better your page ranking gets.</p>
+<p>The importance of AMP pages cannot be emphasized more than with Google’s introduction of the AMP page carousel that appears on the first page of mobile search results. The carousel features articles that are related to the query. It includes an image with the article heading. The kind of content marketing you’d receive is huge.</p>
+<p><img class="aligncenter size-full wp-image-21898" alt="2 amp" src="https://www.prestashop.com/blog/en/files/2016/06/2-amp.png" width="352" height="651" /></p>
+<p>&nbsp;</p>
+<h2><span style="color: #078ac0">Who can use AMP pages?</span></h2>
+<p>Although, Accelerated Mobile Pages are great, is it worth the time and effort? Not for everyone.</p>
+<p>Accelerated Mobile pages are useful for sites that publish blog content, news articles or any other kind of content. However, if you convert your products or service page into AMP, you’ll lose the chance to impress your visitors with gorgeous websites, due to the slim HTML code required for AMP mobile pages.</p>
+<p>So rather than turning your entire website into AMP, focus on converting your blog section or news feed into AMP. With lightning fast loading on your blog section, users will receive the information they need quickly thus improving your ranking.</p>
+<p>If you are a content marketer or a publishing website releasing fresh content frequently, then AMP will be a lucrative tool for increasing your search engine ranking.</p>
+<h2><span style="color: #078ac0">Get started with AMP</span></h2>
+<p><img class="alignleft size-full wp-image-21924" alt="amp" src="https://www.prestashop.com/blog/en/files/2016/07/amp.png" width="869" height="489" /></p>
+<p>If you have a WordPress site, then there’s a 5-minute process for integrating AMP. Use the following plug-ins.</p>
+<ul>
+<li>AMP WordPress by Automattic</li>
+<li>Yoast SEO</li>
+</ul>
+<p>If your website is not WordPress-based, then you’ll have to go to the AMP website and learn how to integrate it by hard-coding it.</p>
+<p>Once you do integrate your AMP, be patient. Your content will not immediately appear in search results. Google will take at least a few days to crawl these new pages. It can be a relatively slow process, especially when it comes to already existing content.</p>
+<p>AMP is a free open source framework offering lucrative opportunities for you to build your site ranking and search engine results. Don’t lose up on this opportunity to give your users a faster mobile experience with Accelerated Mobile Pages.</p>
+<p>Will you be implementing AMP for you blog and content pages? Share your thoughts in the comments below.</p>
+<hr />
+<p><strong>About the author:</strong></p>
+<p><img class="alignleft" alt="Logo" src="https://www.prestashop.com/blog/en/files/2016/06/Logo.jpg" width="258" height="90" />SHAMLATECH is a Global Enterprise Service Agency serving happy clients over the past 8 years in the industry. The services include web and eCommerce development, Mobile application development and Digital Marketing.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/accelerated-mobile-pages-amp-can-help-website/">What is Accelerated Mobile Pages (AMP) &amp; How Can It Help My Website?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/accelerated-mobile-pages-amp-can-help-website/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Golden October with Amazon Payments</title>
+		<link>https://www.prestashop.com/blog/en/golden-october-amazon-payments/</link>
+		<comments>https://www.prestashop.com/blog/en/golden-october-amazon-payments/#comments</comments>
+		<pubDate>Fri, 22 Jul 2016 12:09:44 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21988</guid>
+		<description><![CDATA[<p>Don’t miss this golden opportunity to get started with Amazon Payments: Sow the seeds to help grow your business by 22 September 2016 and earn up to 3 months without service fees*. Offer Amazon Payments to your customers for a trusted, fast, and secure way to pay. Make it predictably simple for more than 300 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/golden-october-amazon-payments/">Golden October with Amazon Payments</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Don’t miss this golden opportunity to get started with Amazon Payments: Sow the seeds to help grow your business by 22 September 2016 and earn up to 3 months without service fees*.</p>
+<p><span id="more-21988"></span></p>
+<p>Offer Amazon Payments to your customers for a trusted, fast, and secure way to pay. Make it predictably simple for more than 300 million Amazon customers to buy from your site, and Amazon Payments can help you:</p>
+<ul>
+<li>Increase conversions</li>
+<li>Acquire new customers</li>
+<li>Build customer loyalty</li>
+<li>Reduce fraud</li>
+</ul>
+<p>This could be the best 4th quarter you’ve ever had.</p>
+<p style="text-align: center;"><a class="btn btn-sucess" style="background-color: #2f2f2f; border: 1px solid #191717; border-bottom: 3px solid #292727; margin: 20px 0 0; color: #fff;" href="https://go.amazonservices.com/GO_UK.html?ld=SPEXUKAPA-GO-BL-PS" target="_blank"><i class="fa fa-ticket"></i>   Register now</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/golden-october-amazon-payments/">Golden October with Amazon Payments</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/golden-october-amazon-payments/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>6 smart competitive pricing tactics for eCommerce companies – part 2/2</title>
+		<link>https://www.prestashop.com/blog/en/6-smart-competitive-pricing-tactics-ecommerce-companies-part-22/</link>
+		<comments>https://www.prestashop.com/blog/en/6-smart-competitive-pricing-tactics-ecommerce-companies-part-22/#comments</comments>
+		<pubDate>Thu, 21 Jul 2016 07:17:27 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21977</guid>
+		<description><![CDATA[<p>In part 1 of our 6 smart competitive pricing tactics, we shared 3 ways to price your products competitively: keep your eyes on costs, never undervalue your products, and compete for pricing at the brand or category level. Today we’ll share the next three competitive pricing tactics. 4 &#8211; Analyze your competitor’s historical pricing trends [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/6-smart-competitive-pricing-tactics-ecommerce-companies-part-22/">6 smart competitive pricing tactics for eCommerce companies – part 2/2</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In part 1 of our 6 smart competitive pricing tactics, we shared 3 ways to price your products competitively: keep your eyes on costs, never undervalue your products, and compete for pricing at the brand or category level. Today we’ll share the next three competitive pricing tactics.</p>
+<p><span id="more-21977"></span></p>
+<h2><span style="color: #3d698e;">4 &#8211; Analyze your competitor’s historical pricing trends to detect sales like weekend discounts or nighttime flash sales</span></h2>
+<p>(**Here’s 1-3 of this article.)<br />
+Shopping occurs mainly in the present tense&#8211;it’s a matter of “now”. However, the same is not true of pricing. Most companies have <a href="https://en.wikipedia.org/wiki/Time-based_pricing" target="_blank">time-based pricing strategies</a> or <a href="https://blog.prisync.com/implementing-an-effective-discount-strategy/" target="_blank">discounting strategies</a>. Some of them have public campaigns for their weekend sales, and some of them built a loyal shopper base for their late-night discount frenzy.</p>
+<p>Gaining insight into such trends and acting competitively on them is as vital as being competitive at the product level.</p>
+<p>This is because these trends or campaigns go beyond offering a simple discount; they are about building a loyal customer base.</p>
+<p>Therefore, eCommerce companies should also monitor and analyze the historical pricing trends of their competitors while closely tracking actual prices.</p>
+<p><img class="alignnone size-full wp-image-21979" alt="image1" src="https://www.prestashop.com/blog/en/files/2016/07/image1.jpg" width="1300" height="867" /></p>
+<h2><span style="color: #3d698e;">5 &#8211; Focus on your competitors’ out-of-stock products</span></h2>
+<p>Prices matter, but only as long as a company can deliver the product.<br />
+Online shoppers consider product availability and prices at the same time. If a product isn’t available, the shopper is likely to make the purchase elsewhere. It works similar to how an expensive product works in the minds of an online shopper. It fails to grab the attention of the shopper and forces it to find another option.</p>
+<p>This represents an opportunity for eCommerce companies. You can consider the stock availabilities of your competitors as a solid pricing opportunity.</p>
+<p>When the competition is out of stock for a tight-margin product it means that shoppers do not have many choices, so their willingness to pay more will be higher. Therefore, the eCommerce company with competitive advantage and stock availability gets the potential advantage in pricing. With the right technology, companies can gain insights on their competitors’ stock availabilities and prices, then implement this strategy, on the spot.</p>
+<h2><span style="color: #3d698e;">6 &#8211; Negotiate better deals with suppliers with data </span></h2>
+<p>Data is a solid weapon when it comes to business negotiations. It’s a very objective way of presenting an argument.</p>
+<p>No one can dispute data and suppliers to <a href="https://blog.prisync.com/tips-supplier-relationships-in-ecommerce/" target="_blank">eCommerce companies</a> are no exception.<br />
+It’s common to see eCommerce companies complain to their suppliers about the prices they see over at their competitors for certain products that they also carry in their assortments. Just mentioning this to your supplier won’t get you very far. But when this negotiation is handled in a structured format with clear data demonstrating a supplier-affected disadvantage for that eCommerce company, things may flow in a different direction. Providing hard evidence can bring further discounts or deals.</p>
+<p>In short, you can act smart and show that you know what’s really going on between your suppliers and competitors, and confidently demand the best deal for yourself.</p>
+<h2><span style="color: #3d698e;">Conclusion</span></h2>
+<p>Competitive pricing intelligence is a multi-dimensional analysis should not be regarded as only monitoring product prices vs. competitors.</p>
+<p>Even though such monitoring offers significant sales and a profit boost, that should not be considered enough. Going further by implementing the pricing strategies mentioned above can help eCommerce companies of all sizes further outsmart their competitors in today’s wildly competitive eCommerce market.</p>
+<hr />
+<p>&nbsp;</p>
+<p><strong>About the Author</strong></p>
+<p><img class="alignleft size-full wp-image-21929" alt="6SmartCompetitivePricingTactics_4" src="https://www.prestashop.com/blog/en/files/2016/07/6SmartCompetitivePricingTactics_4.png" width="144" height="177" />Burc Tanir is an SMB-loving, eCommerce evangelist and the CEO of Prisync.com, the competitor price tracking software, already serving companies from more than 40 countries.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/6-smart-competitive-pricing-tactics-ecommerce-companies-part-22/">6 smart competitive pricing tactics for eCommerce companies – part 2/2</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/6-smart-competitive-pricing-tactics-ecommerce-companies-part-22/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

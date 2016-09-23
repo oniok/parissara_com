@@ -1,0 +1,12 @@
+@import "compass";
+@import "theme_variables";
+
+$image-theme-base-path: "img/";
+
+$theme-color-default: 		#8bc43f;
+$link-hover-color: 			$theme-color-default;
+
+$breadcrumb-active-color:       $theme-color-default;
+
+
+@import "../_skin";

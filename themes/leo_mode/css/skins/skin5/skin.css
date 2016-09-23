@@ -1,0 +1,294 @@
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+/** CHECKOUT BY STEP */
+a:hover, a:focus {
+  color: #ff8106;
+}
+
+.btn-inverse {
+  color: white;
+  background-color: #ff8106;
+  border-color: #ff8106;
+}
+.btn-inverse:hover, .btn-inverse:focus, .btn-inverse:active, .btn-inverse.active {
+  color: black;
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+.open .btn-inverse.dropdown-toggle {
+  color: black;
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+.btn-inverse:active, .btn-inverse.active {
+  background-image: none;
+}
+.open .btn-inverse.dropdown-toggle {
+  background-image: none;
+}
+.btn-inverse.disabled, .btn-inverse.disabled:hover, .btn-inverse.disabled:focus, .btn-inverse.disabled:active, .btn-inverse.disabled.active, .btn-inverse[disabled], .btn-inverse[disabled]:hover, .btn-inverse[disabled]:focus, .btn-inverse[disabled]:active, .btn-inverse[disabled].active, fieldset[disabled] .btn-inverse, fieldset[disabled] .btn-inverse:hover, fieldset[disabled] .btn-inverse:focus, fieldset[disabled] .btn-inverse:active, fieldset[disabled] .btn-inverse.active {
+  background-color: #ff8106;
+  border-color: #ff8106;
+}
+.btn-inverse .badge {
+  color: #ff8106;
+  background-color: white;
+}
+
+.btn-outline {
+  color: black;
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+.btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+  color: white;
+  background-color: #ff8106;
+  border-color: #ff8106;
+}
+.open .btn-outline.dropdown-toggle {
+  color: white;
+  background-color: #ff8106;
+  border-color: #ff8106;
+}
+.btn-outline:active, .btn-outline.active {
+  background-image: none;
+}
+.open .btn-outline.dropdown-toggle {
+  background-image: none;
+}
+.btn-outline.disabled, .btn-outline.disabled:hover, .btn-outline.disabled:focus, .btn-outline.disabled:active, .btn-outline.disabled.active, .btn-outline[disabled], .btn-outline[disabled]:hover, .btn-outline[disabled]:focus, .btn-outline[disabled]:active, .btn-outline[disabled].active, fieldset[disabled] .btn-outline, fieldset[disabled] .btn-outline:hover, fieldset[disabled] .btn-outline:focus, fieldset[disabled] .btn-outline:active, fieldset[disabled] .btn-outline.active {
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+.btn-outline .badge {
+  color: white;
+  background-color: black;
+}
+
+/* Text Blink */
+@keyframes blink {
+  0% {
+    color: white;
+  }
+
+  100% {
+    color: #ff8106;
+  }
+}
+
+@-webkit-keyframes blink {
+  0% {
+    color: white;
+  }
+
+  100% {
+    color: #ff8106;
+  }
+}
+
+.carousel-control:hover:before {
+  color: #ff8106;
+}
+
+#topbar a:hover {
+  color: #ff8106;
+}
+#topbar .fa {
+  color: #ff8106;
+}
+#topbar .popup-over a:hover {
+  color: #ff8106;
+}
+#topbar .popup-over ul li.selected, #topbar .popup-over ul li.selected a {
+  color: #ff8106;
+}
+
+#footer a:hover {
+  color: #ff8106;
+}
+
+.footer-container #footer-bottom ul li a:hover {
+  color: #ff8106;
+}
+
+.breadcrumb a:hover {
+  color: #ff8106;
+}
+
+/* Pagination */
+.pagination > li > a:hover, .pagination > li > a:focus, .pagination > li > span:hover, .pagination > li > span:focus {
+  color: #ff8106;
+}
+.pagination > li.current > span {
+  color: #ff8106;
+}
+.pagination > li:hover > a, .pagination > li:hover > span {
+  color: #ff8106;
+}
+
+/* Block Cart */
+#cart .heading {
+  background-color: #ff8106;
+}
+
+/* Product list */
+.product-block .name a:hover {
+  color: #ff8106;
+}
+.product-block .price {
+  color: #ff8106;
+}
+.product-block .functional-buttons > div:hover a {
+  background-color: #ff8106;
+}
+.product-block .functional-buttons > div:hover.wishlist a {
+  background-color: #ff8106;
+}
+.product-block .functional-buttons > div:hover.compare a {
+  background-color: #ff8106;
+}
+.product-block .functional-buttons > div:hover.view a {
+  background-color: #ff8106;
+}
+
+/* Tabs Top */
+.tabs-top.latest-products .nav-tabs > li > a:hover {
+  color: #ff8106;
+}
+.tabs-top.latest-products .nav-tabs > li.active > a, .tabs-top.latest-products .nav-tabs > li.active > a:hover, .tabs-top.latest-products .nav-tabs > li.active a:focus {
+  color: #ff8106;
+}
+
+/* Block Category */
+#categories_block_left ul li ul:before {
+  border-left: 1px solid #ff8106;
+}
+.rtl #categories_block_left ul li ul:before {
+  border-right: 1px solid #ff8106;
+  border-left: inherit;
+}
+
+#categories_block_left ul li a.selected {
+  color: #ff8106;
+}
+
+/* Block Newsletter */
+#footer #newsletter_block_left .icon_newsletter {
+  border-left: 1px solid #ff8106;
+}
+.rtl #footer #newsletter_block_left .icon_newsletter {
+  border-right: 1px solid #ff8106;
+  border-left: inherit;
+}
+
+/* Slidehow */
+.iview-controlNav div.iview-items ul li a.iview-control.active,
+.iview-controlNav div.iview-items ul li a.iview-control:hover {
+  background-color: #ff8106;
+}
+
+.iview-directionNav a:hover {
+  background: #ff8106;
+  color: white;
+}
+
+.bannercontainer .tp-caption.btn:hover {
+  border-color: #ff8106;
+  -webkit-box-shadow: 0 0 0 30px #ff8106 inset;
+  box-shadow: 0 0 0 30px #ff8106 inset;
+}
+.bannercontainer .tp-caption.black:before {
+  background: #ff8106;
+}
+
+/* Product Page */
+#thumbs_list li a.shown img {
+  border-bottom-color: #ff8106;
+}
+
+#buy_block .our_price_display {
+  color: #ff8106;
+}
+
+.pb-center-column #product_reference, .pb-center-column #product_condition {
+  border-left: 3px solid #ff8106;
+}
+.rtl .pb-center-column #product_reference, .rtl .pb-center-column #product_condition {
+  border-right: 3px solid #ff8106;
+  border-left: inherit;
+}
+
+.group-btn a:hover {
+  color: #ff8106;
+}
+
+#view_scroll_left:hover:before, #view_scroll_right:hover:before {
+  color: #ff8106;
+}
+
+.pb-left-column #image-block #view_full_size .span_link:hover:after {
+  color: #ff8106;
+}
+
+/* Widget Page Buider */
+.ApImage.store-location .image_description .orange {
+  color: #ff8106;
+}
+
+.box-custom h2 .orange {
+  color: #ff8106;
+}
+.box-custom .btn-outline-inverse:hover {
+  -webkit-box-shadow: 0 0 0 30px #ff8106 inset;
+  box-shadow: 0 0 0 30px #ff8106 inset;
+  background: #ff8106;
+  border-color: #ff8106;
+}
+
+.box-custom-extra .txt-shop a:hover {
+  color: #ff8106;
+}
+
+/* Latest Blog */
+.latest-blogs .blog-container .blog-title a:hover {
+  color: #ff8106;
+}
+
+/* Megamenu */
+#leo-megamenu .navbar-nav > li.active > a, #leo-megamenu .navbar-nav > li:hover > a, #leo-megamenu .navbar-nav > li:focus > a {
+  color: #ff8106;
+}
+#leo-megamenu .navbar-nav > li:hover, #leo-megamenu .navbar-nav > li:focus, #leo-megamenu .navbar-nav > li:active {
+  color: #ff8106;
+}
+#leo-megamenu .navbar-nav > li:hover > .caret, #leo-megamenu .navbar-nav > li:active > .caret {
+  color: #ff8106;
+}
+#leo-megamenu .dropdown-menu li a:hover {
+  color: #ff8106;
+}
+#leo-megamenu .dropdown-menu li a:hover > .menu-title {
+  color: #ff8106;
+}
+#leo-megamenu .dropdown:hover > a {
+  color: #ff8106;
+}
+#leo-megamenu .dropdown:hover > a .fa {
+  color: #ff8106;
+}
+
+#back-top a:hover {
+  color: #ff8106;
+}

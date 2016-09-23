@@ -1,0 +1,33 @@
+// footer.scss
+@import "vars/footer.vars";
+
+.footer-container{
+	.footer-block {
+		ul{
+			margin: 0;
+			li{
+				line-height: 30px;
+			}
+		}
+	}	
+	#footer-bottom{
+		ul{
+			li{
+				a{color: $theme-color-secondary;
+					&:hover{
+						color: $theme-color-default;
+					}
+				}
+			}
+		}
+	}
+	.payment{
+		padding: 58px 40px;
+	}
+}
+#footer-bottom{
+	padding-top: 60px; padding-bottom: 60px;
+}
+#footer-logo{
+	margin-bottom: 20px;
+}

@@ -1,0 +1,21 @@
+@import "compass";
+@import "theme_variables";
+// cateogry 
+#subcategories{
+  border: $main-border;
+  margin-bottom: $grid-gutter-width;
+  padding: 15px 0;
+} 
+.subcategories{
+  .cat-desc{
+      overflow: hidden;
+      height: 40px; 
+  }
+}
+.heading-counter {
+    font-size: 13px;
+    @include rtl-float-right();
+    font-weight: 600;
+    font-family: "Lato", sans-serif;
+    line-height: 22px;
+}

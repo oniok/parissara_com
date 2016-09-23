@@ -1,0 +1,68 @@
+.sidebar-fix{
+
+
+
+  background: white;
+
+
+
+}
+
+.sidebar-fix .ApBlockLink ul li:hover {
+
+       background: #FFEE73;
+
+       letter-spacing: 2px;       
+
+}
+
+.sidebar-fix .ApBlockLink ul li:hover a:hover {
+
+       color: black !important;
+
+       /*font-size: 13px !important;*/
+
+}
+
+
+
+#page.sliderbar-menu-margin {
+
+	/*margin-left: 180px;*/
+
+}
+
+.sidebar-fix {
+
+	/*width: 180px;*/
+
+}
+
+#social_block {
+
+	padding: 20px 0px;
+
+}
+
+#topbar {
+
+	background: #FFF;
+
+}
+
+.box-adv h4 {
+
+       color:#181D22;
+
+}
+
+#header_logo a{
+
+	display: none;
+
+}
+
+#footer #newsletter_block_left {
+
+       top:30% !important;
+}
