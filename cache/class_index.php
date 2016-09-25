@@ -1517,6 +1517,12 @@
     'type' => 'class',
     'override' => false,
   ),
+  'CampaignController' => 
+  array (
+    'path' => 'override/controllers/front/CampaignController.php',
+    'type' => 'class',
+    'override' => false,
+  ),
   'Carrier' => 
   array (
     'path' => '',
@@ -3788,6 +3794,12 @@
   'StoresControllerCore' => 
   array (
     'path' => 'controllers/front/StoresController.php',
+    'type' => 'class',
+    'override' => false,
+  ),
+  'StoryController' => 
+  array (
+    'path' => 'override/controllers/front/StoryController.php',
     'type' => 'class',
     'override' => false,
   ),

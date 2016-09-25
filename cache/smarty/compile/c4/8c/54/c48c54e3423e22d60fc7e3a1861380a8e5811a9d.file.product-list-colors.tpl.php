@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-23 10:29:02
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-25 01:40:32
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\product-list-colors.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2423357e53c2ea7f193-68117423%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2771657e76350c45379-12405049%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2423357e53c2ea7f193-68117423',
+  'nocache_hash' => '2771657e76350c45379-12405049',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e53c2ebacdf7_39976650',
+  'unifunc' => 'content_57e76350d57764_79701844',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e53c2ebacdf7_39976650')) {function content_57e53c2ebacdf7_39976650($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57e76350d57764_79701844')) {function content_57e76350d57764_79701844($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['colors_list']->value)) {?>
 <ul class="color_to_pick_list clearfix">
 	<?php  $_smarty_tpl->tpl_vars['color'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['color']->_loop = false;

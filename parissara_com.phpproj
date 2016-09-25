@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -1760,7 +1761,6 @@
     <Compile Include="cache\smarty\compile\last_flush" />
     <Compile Include="cache\smarty\index.php" />
     <Compile Include="cache\tcpdf\index.php" />
-    <Compile Include="cache\class_index.php" />
     <Compile Include="cache\index.php" />
     <Compile Include="classes\cache\Cache.php" />
     <Compile Include="classes\cache\CacheApc.php" />
@@ -7770,6 +7770,7 @@
     <Compile Include="override\classes\index.php" />
     <Compile Include="override\controllers\admin\templates\index.php" />
     <Compile Include="override\controllers\admin\index.php" />
+    <Compile Include="override\controllers\front\StoryController.php" />
     <Compile Include="override\controllers\front\index.php" />
     <Compile Include="override\controllers\index.php" />
     <Compile Include="override\modules\index.php" />
@@ -22360,5 +22361,8 @@
     <Folder Include="translations" />
     <Folder Include="upload" />
     <Folder Include="webservice" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="themes\leo_mode\story.tpl" />
   </ItemGroup>
 </Project>

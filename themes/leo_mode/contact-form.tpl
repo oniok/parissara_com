@@ -23,9 +23,12 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 {capture name=path}{l s='Contact'}{/capture}
-<h1 class="page-heading bottom-indent">
-	{l s='Customer service'} - {if isset($customerThread) && $customerThread}{l s='Your reply'}{else}{l s='Contact us'}{/if}
-</h1>
+<h4 style="text-transform: uppercase;" class="page-heading bottom-indent">
+	{if isset($customerThread) && $customerThread}{l s='Your reply'}{else}{l s='Contact us'}{/if}
+</h4>
+<h4 style="text-transform: none;line-height: 1.4;padding-bottom: 10px;">
+	{l s='We want to serve you better than the best. Let us know about your shopping experience at PARISSARA, shoot us a question, or fire over a comment, and we\'ll get back to you.'}
+</h4>
 {if isset($confirmation)}
 	<p class="alert alert-success">{l s='Your message has been successfully sent to our team.'}</p>
 	<ul class="footer_links clearfix">
@@ -52,9 +55,10 @@
 	{include file="$tpl_dir./errors.tpl"}
 	<form action="{$request_uri}" method="post" class="contact-form-box" enctype="multipart/form-data">
 		<fieldset>
-			<h3 class="page-subheading">{l s='send a message'}</h3>
+			<!-- <h3 class="page-subheading">{l s='send a message'}</h3>-->
+			
 			<div class="clearfix">
-				<div class="col-xs-12 col-md-4">
+				<div class="col-xs-12 col-md-5">
 					<div class="form-group selector1">
 						<label for="id_contact">{l s='Subject Heading'}</label>
 					{if isset($customerThread.id_contact) && $customerThread.id_contact && $contacts|count}
@@ -131,7 +135,7 @@
 						{/if}
 					{/if}
 					{if $fileupload == 1}
-						<p class="form-group">
+						<p class="form-group" style="display:none;">
 							<label for="fileUpload">{l s='Attach File'}</label>
 							<input type="hidden" name="MAX_FILE_SIZE" value="{if isset($max_upload_size) && $max_upload_size}{$max_upload_size|intval}{else}2000000{/if}" />
 							<input type="file" name="fileUpload" id="fileUpload" class="form-control" />
@@ -149,6 +153,14 @@
 				<button type="submit" name="submitMessage" id="submitMessage" class="button btn btn-outline button-medium"><span>{l s='Send'}</span></button>
 			</div>
 		</fieldset>
+		<div id="contact_info">
+			<h5 style="text-transform: none;">{l s='contact@parissara.com'}</h5>
+			<h5 style="text-transform: none;">{l s='+66 (0) 82 333 2293'}</h5>			
+			<h5 style="text-transform: none;"><a target="_blank" href="https://www.facebook.com/parissaraofficial" class="btn-tooltip" data-original-title="Facebook"> <span>{l s='facbook.com/parissaraofficial'}</span> </a></h5>
+			<h5 style="text-transform: none;"><a target="_blank" href="https://www.instagram.com/parissaraofficial/" class="btn-tooltip" data-original-title="instagram"><span>{l s='ig: parissaraofficial'}</span> </a></h5>
+			<h5 style="text-transform: none;">{l s='pinterest: parissara'}</h5>
+			<h5 style="text-transform: none;">{l s='twitter: parissara_'}</h5>
+		</div>
 	</form>
 {/if}
 {addJsDefL name='contact_fileDefaultHtml'}{l s='No file selected' js=1}{/addJsDefL}

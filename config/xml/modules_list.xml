@@ -182,6 +182,7 @@
 		<module name="twengafeed"/>
 		<module name="vtpayment"/>
 		<module name="worldpay"/>
+		<module name="wing"/>
 		<module name="yousticeresolutionsystem"/>
 	</modules>
 </modules_list>

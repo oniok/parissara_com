@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-23 10:29:08
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-24 16:23:30
          compiled from "C:\xampp\htdocs\parissara_com\modules\leoslideshow\views\templates\front\leoslideshow.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2599357e53c34c922a5-99265920%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:377757e6e0c2cffd70-80722386%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2599357e53c34c922a5-99265920',
+  'nocache_hash' => '377757e6e0c2cffd70-80722386',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e53c35595c84_83853225',
+  'unifunc' => 'content_57e6e0c3798395_88354406',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e53c35595c84_83853225')) {function content_57e53c35595c84_83853225($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\modifier.replace.php';
+<?php if ($_valid && !is_callable('content_57e6e0c3798395_88354406')) {function content_57e6e0c3798395_88354406($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\modifier.replace.php';
 ?>
 <?php $_smarty_tpl->tpl_vars["class_group"] = new Smarty_variable("iview-group-".((string)$_smarty_tpl->tpl_vars['sliderParams']->value['id_leoslideshow_groups']), null, 0);?>
 <?php if ($_smarty_tpl->tpl_vars['sliderParams']->value['slider_class']=="boxed") {?>

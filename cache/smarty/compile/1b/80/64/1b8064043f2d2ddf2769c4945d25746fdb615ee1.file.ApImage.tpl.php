@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-23 10:29:04
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-25 01:40:34
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\modules\appagebuilder\views\templates\hook\ApImage.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1171957e53c302b7384-77142357%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2825757e76352dc2537-66263112%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1171957e53c302b7384-77142357',
+  'nocache_hash' => '2825757e76352dc2537-66263112',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e53c30526158_56920940',
+  'unifunc' => 'content_57e76353123680_77459845',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e53c30526158_56920940')) {function content_57e53c30526158_56920940($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57e76353123680_77459845')) {function content_57e76353123680_77459845($_smarty_tpl) {?>
 <!-- @file modules\appagebuilder\views\templates\hook\ApImage -->
 <div id="image-<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['formAtts']->value['form_id'], ENT_QUOTES, 'UTF-8', true);?>
 " class="block <?php echo isset($_smarty_tpl->tpl_vars['formAtts']->value['css_class'])&&$_smarty_tpl->tpl_vars['formAtts']->value['css_class'] ? $_smarty_tpl->tpl_vars['formAtts']->value['css_class'] : htmlspecialchars('', ENT_QUOTES, 'UTF-8', true);?>
