@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-25 01:40:36
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-26 15:33:14
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\layout\setting.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:3055857e763547a2270-96442353%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:89357e8dd4a9344e5-70554486%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6f3c8591e7890112240a0b276725b2d16b455b82' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\themes\\leo_mode\\layout\\setting.tpl',
-      1 => 1474751964,
+      1 => 1474858334,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '3055857e763547a2270-96442353',
+  'nocache_hash' => '89357e8dd4a9344e5-70554486',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e76354846b24_25731481',
+  'unifunc' => 'content_57e8dd4a98fd97_46013597',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e76354846b24_25731481')) {function content_57e76354846b24_25731481($_smarty_tpl) {?><?php $_smarty_tpl->tpl_vars["ENABLE_RESPONSIVE"] = new Smarty_variable("1", null, 3);
+<?php if ($_valid && !is_callable('content_57e8dd4a98fd97_46013597')) {function content_57e8dd4a98fd97_46013597($_smarty_tpl) {?><?php $_smarty_tpl->tpl_vars["ENABLE_RESPONSIVE"] = new Smarty_variable("1", null, 3);
 $_ptr = $_smarty_tpl->parent; while ($_ptr != null) {$_ptr->tpl_vars["ENABLE_RESPONSIVE"] = clone $_smarty_tpl->tpl_vars["ENABLE_RESPONSIVE"]; $_ptr = $_ptr->parent; }
 Smarty::$global_tpl_vars["ENABLE_RESPONSIVE"] = clone $_smarty_tpl->tpl_vars["ENABLE_RESPONSIVE"];?><?php $_smarty_tpl->tpl_vars["LISTING_GRIG_MODE"] = new Smarty_variable("grid", null, 3);
 $_ptr = $_smarty_tpl->parent; while ($_ptr != null) {$_ptr->tpl_vars["LISTING_GRIG_MODE"] = clone $_smarty_tpl->tpl_vars["LISTING_GRIG_MODE"]; $_ptr = $_ptr->parent; }

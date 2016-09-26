@@ -3569,6 +3569,12 @@
     'type' => 'class',
     'override' => false,
   ),
+  'ShopController' => 
+  array (
+    'path' => 'override/controllers/front/ShopController.php',
+    'type' => 'class',
+    'override' => false,
+  ),
   'ShopCore' => 
   array (
     'path' => 'classes/shop/Shop.php',

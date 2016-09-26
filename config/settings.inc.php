@@ -1,6 +1,7 @@
 <?php
 define('_DB_SERVER_', 'localhost');
-define('_DB_NAME_', 'parissara_db');
+//define('_DB_NAME_', 'parissara_db'); //for production
+define('_DB_NAME_', 'parissara_dev_db');
 define('_DB_USER_', 'paris');
 define('_DB_PASSWD_', '500558');
 define('_DB_PREFIX_', 'ps_');

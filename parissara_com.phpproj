@@ -7770,6 +7770,8 @@
     <Compile Include="override\classes\index.php" />
     <Compile Include="override\controllers\admin\templates\index.php" />
     <Compile Include="override\controllers\admin\index.php" />
+    <Compile Include="override\controllers\front\CampaignController.php" />
+    <Compile Include="override\controllers\front\ShopController.php" />
     <Compile Include="override\controllers\front\StoryController.php" />
     <Compile Include="override\controllers\front\index.php" />
     <Compile Include="override\controllers\index.php" />
@@ -22363,6 +22365,15 @@
     <Folder Include="webservice" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\Campaign.jpg" />
+    <Content Include="img\STORY.jpg" />
+    <Content Include="img\story1.jpg" />
+    <Content Include="img\story2.jpg" />
+    <Content Include="img\story3.jpg" />
+    <Content Include="themes\leo_mode\campaign.tpl" />
+    <Content Include="themes\leo_mode\shop-list.tpl" />
+    <Content Include="themes\leo_mode\shop.tpl" />
     <Content Include="themes\leo_mode\story.tpl" />
+    <Content Include="themes\leo_mode\sub\product\shop-list-form.tpl" />
   </ItemGroup>
 </Project>

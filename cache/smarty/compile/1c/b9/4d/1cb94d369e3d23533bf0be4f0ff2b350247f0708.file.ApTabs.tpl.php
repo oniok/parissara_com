@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-24 16:23:26
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-26 15:37:49
          compiled from "C:\xampp\htdocs\parissara_com\modules\appagebuilder\views\templates\hook\ApTabs.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1506157e6e0be2b3511-96439571%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:595857e8de5de3c3c5-71195414%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '1cb94d369e3d23533bf0be4f0ff2b350247f0708' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\modules\\appagebuilder\\views\\templates\\hook\\ApTabs.tpl',
-      1 => 1474290874,
+      1 => 1474858294,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1506157e6e0be2b3511-96439571',
+  'nocache_hash' => '595857e8de5de3c3c5-71195414',
   'function' => 
   array (
   ),
@@ -28,9 +28,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e6e0be5d4c35_06600419',
+  'unifunc' => 'content_57e8de5e0951a7_24399690',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e6e0be5d4c35_06600419')) {function content_57e6e0be5d4c35_06600419($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57e8de5e0951a7_24399690')) {function content_57e8de5e0951a7_24399690($_smarty_tpl) {?>
  <!-- @file modules\appagebuilder\views\templates\hook\ApTabs -->
 <?php if (!isset($_smarty_tpl->tpl_vars['isSubTab']->value)) {?>
 <div<?php if (isset($_smarty_tpl->tpl_vars['formAtts']->value['id'])) {?> id="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['formAtts']->value['id'], ENT_QUOTES, 'UTF-8', true);?>

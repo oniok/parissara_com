@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-24 17:19:29
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-26 15:49:05
          compiled from "C:\xampp\htdocs\parissara_com\iadmin\themes\default\template\controllers\modules\configuration_bar.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1156757e6ede175d405-20842192%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:686457e8e1016e8255-58658812%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '39ddc4e65349b177b96abe682557c68f8053e9bc' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\iadmin\\themes\\default\\template\\controllers\\modules\\configuration_bar.tpl',
-      1 => 1474290547,
+      1 => 1474858272,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1156757e6ede175d405-20842192',
+  'nocache_hash' => '686457e8e1016e8255-58658812',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e6ede17d2b73_33400713',
+  'unifunc' => 'content_57e8e101747f06_82933762',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e6ede17d2b73_33400713')) {function content_57e6ede17d2b73_33400713($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\modifier.regex_replace.php';
+<?php if ($_valid && !is_callable('content_57e8e101747f06_82933762')) {function content_57e8e101747f06_82933762($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\modifier.regex_replace.php';
 ?>
 
 <?php $_smarty_tpl->tpl_vars['module_name'] = new Smarty_variable(htmlspecialchars($_smarty_tpl->tpl_vars['module_name']->value, ENT_QUOTES, 'UTF-8', true), null, 0);?>

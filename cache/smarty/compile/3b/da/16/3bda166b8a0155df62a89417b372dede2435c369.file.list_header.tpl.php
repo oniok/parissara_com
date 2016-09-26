@@ -1,23 +1,23 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-25 01:40:15
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-26 15:19:30
          compiled from "C:\xampp\htdocs\parissara_com\iadmin\themes\default\template\controllers\categories\helpers\list\list_header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2572657e7633fe6ef18-50150998%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2375257e8da121c1044-62311549%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '3bda166b8a0155df62a89417b372dede2435c369' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\iadmin\\themes\\default\\template\\controllers\\categories\\helpers\\list\\list_header.tpl',
-      1 => 1474290529,
+      1 => 1474858271,
       2 => 'file',
     ),
     '978db69f2e4a1c59c0e515fdaf1984e9d333bfba' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\iadmin\\themes\\default\\template\\helpers\\list\\list_header.tpl',
-      1 => 1474290586,
+      1 => 1474858275,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2572657e7633fe6ef18-50150998',
+  'nocache_hash' => '2375257e8da121c1044-62311549',
   'function' => 
   array (
   ),
@@ -69,9 +69,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e76340ba2738_84198740',
+  'unifunc' => 'content_57e8da125fae03_94632680',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e76340ba2738_84198740')) {function content_57e76340ba2738_84198740($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\function.math.php';
+<?php if ($_valid && !is_callable('content_57e8da125fae03_94632680')) {function content_57e8da125fae03_94632680($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\function.math.php';
 ?>
 <?php if ($_smarty_tpl->tpl_vars['ajax']->value) {?>
 	<script type="text/javascript">

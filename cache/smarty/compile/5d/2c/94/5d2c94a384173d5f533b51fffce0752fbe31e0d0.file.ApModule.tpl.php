@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-24 10:17:41
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-26 16:45:44
          compiled from "C:\xampp\htdocs\parissara_com\modules\appagebuilder\views\templates\admin\ap_page_builder_shortcodes\ApModule.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:802457e68b056c3337-34859755%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:392657e8ee4854e2b8-03770308%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '5d2c94a384173d5f533b51fffce0752fbe31e0d0' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\modules\\appagebuilder\\views\\templates\\admin\\ap_page_builder_shortcodes\\ApModule.tpl',
-      1 => 1474290869,
+      1 => 1474858293,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '802457e68b056c3337-34859755',
+  'nocache_hash' => '392657e8ee4854e2b8-03770308',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e68b058ecc43_75740179',
+  'unifunc' => 'content_57e8ee486c6732_00203893',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e68b058ecc43_75740179')) {function content_57e68b058ecc43_75740179($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57e8ee486c6732_00203893')) {function content_57e8ee486c6732_00203893($_smarty_tpl) {?>
 <!-- @file modules\appagebuilder\views\templates\admin\ap_page_builder_shortcodes\ApModule -->
 <div <?php if (!isset($_smarty_tpl->tpl_vars['apInfo']->value)) {?>id="default_widget"<?php }?> class="widget-row clearfix<?php if (isset($_smarty_tpl->tpl_vars['apInfo']->value)) {?> <?php echo htmlspecialchars($_smarty_tpl->tpl_vars['apInfo']->value['name'], ENT_QUOTES, 'UTF-8', true);?>
 <?php if (isset($_smarty_tpl->tpl_vars['apInfo']->value['icon_class'])) {?> widget-icon<?php }?><?php }?><?php if (isset($_smarty_tpl->tpl_vars['formAtts']->value)) {?> <?php echo htmlspecialchars($_smarty_tpl->tpl_vars['formAtts']->value['form_id'], ENT_QUOTES, 'UTF-8', true);?>

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-25 01:40:33
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-26 15:33:05
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\modules\appagebuilder\views\templates\hook\sidebar-fix\ApBlockLink.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:80957e76351a07a36-04283911%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2719157e8dd412c0652-23369939%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'acbc55afc1f01d5c4fa1fab01b33fa70490f752b' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\themes\\leo_mode\\modules\\appagebuilder\\views\\templates\\hook\\sidebar-fix\\ApBlockLink.tpl',
-      1 => 1474291636,
+      1 => 1474858334,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '80957e76351a07a36-04283911',
+  'nocache_hash' => '2719157e8dd412c0652-23369939',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e76351af2aa2_23377611',
+  'unifunc' => 'content_57e8dd41413b84_28240130',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e76351af2aa2_23377611')) {function content_57e76351af2aa2_23377611($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57e8dd41413b84_28240130')) {function content_57e8dd41413b84_28240130($_smarty_tpl) {?>
 <!-- @file modules\appagebuilder\views\templates\hook\ApBlockLink -->
 <?php echo $_smarty_tpl->tpl_vars['apLiveEdit']->value ? $_smarty_tpl->tpl_vars['apLiveEdit']->value : '';?>
 
