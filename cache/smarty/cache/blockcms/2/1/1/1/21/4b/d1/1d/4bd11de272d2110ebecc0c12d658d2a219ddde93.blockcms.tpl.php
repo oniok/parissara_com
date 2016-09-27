@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:19757e8dd48d66685-18600895%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1119257ea2cbb913d84-07114917%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19757e8dd48d66685-18600895',
+  'nocache_hash' => '1119257ea2cbb913d84-07114917',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e8fc6633ceb6_27858657',
+  'unifunc' => 'content_57ea440d686859_20393920',
   'has_nocache_code' => true,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e8fc6633ceb6_27858657')) {function content_57e8fc6633ceb6_27858657($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57ea440d686859_20393920')) {function content_57ea440d686859_20393920($_smarty_tpl) {?>
 	<!-- Block CMS module footer -->
 	<div class="footer-block block" id="block_various_links_footer">
 		<h4 class="title_block">Information</h4>

@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:2695557e8dd4966fa15-28178667%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1355857ea2cbc38b4b2-16148683%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2695557e8dd4966fa15-28178667',
+  'nocache_hash' => '1355857ea2cbc38b4b2-16148683',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e8fc6656e2d8_72603619',
+  'unifunc' => 'content_57ea440d94b844_94124349',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e8fc6656e2d8_72603619')) {function content_57e8fc6656e2d8_72603619($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57ea440d94b844_94124349')) {function content_57ea440d94b844_94124349($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <div class="footer-block block">
 	<h4 class="title_block">My account</h4>

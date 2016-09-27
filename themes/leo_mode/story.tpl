@@ -27,7 +27,9 @@
 </h4>
 <div id="txt_story1">
 	<h7 style="text-transform: none;" class="page-heading bottom-indent">
+		<span id="txt_story1">
 		{l s='PARISSARA - Where the art of clothing meets femininity...'}
+		</span>
 	</h7>
 </div>
 <div id="img_story1">

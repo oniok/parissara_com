@@ -27,7 +27,12 @@
 	{if isset($customerThread) && $customerThread}{l s='Your reply'}{else}{l s='Contact us'}{/if}
 </h4>
 <h4 style="text-transform: none;line-height: 1.4;padding-bottom: 10px;">
-	{l s='We want to serve you better than the best. Let us know about your shopping experience at PARISSARA, shoot us a question, or fire over a comment, and we\'ll get back to you.'}
+	<span id="txt_contact_1">
+	{l s='We want to serve you better than the best. Let us know about your shopping experience at PARISSARA, '}
+	</span>
+	<span id="txt_contact_2">
+	{l s='shoot us a question, or fire over a comment, and we\'ll get back to you.'}
+	</sapn>
 </h4>
 {if isset($confirmation)}
 	<p class="alert alert-success">{l s='Your message has been successfully sent to our team.'}</p>

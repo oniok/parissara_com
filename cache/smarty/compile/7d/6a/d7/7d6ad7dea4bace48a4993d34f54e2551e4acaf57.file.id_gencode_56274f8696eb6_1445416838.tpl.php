@@ -1,22 +1,22 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-26 17:46:03
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-27 17:04:39
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\profiles\profile1445014794\id_gencode_56274f8696eb6_1445416838.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:505457e8dd55ea3800-98705510%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2394157ea2cc11a2471-42507895%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '7d6ad7dea4bace48a4993d34f54e2551e4acaf57' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\themes\\leo_mode\\profiles\\profile1445014794\\id_gencode_56274f8696eb6_1445416838.tpl',
-      1 => 1474886763,
+      1 => 1474970679,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '505457e8dd55ea3800-98705510',
+  'nocache_hash' => '2394157ea2cc11a2471-42507895',
   'function' => 
   array (
   ),
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57e8dd55ed8ed2_95727893',
+  'unifunc' => 'content_57ea2cc11f10d8_81487010',
   'variables' => 
   array (
     'force_ssl' => 0,
@@ -29,7 +29,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57e8dd55ed8ed2_95727893')) {function content_57e8dd55ed8ed2_95727893($_smarty_tpl) {?><div id="header_logo">                                    <a href="<?php if (isset($_smarty_tpl->tpl_vars['force_ssl']->value)&&$_smarty_tpl->tpl_vars['force_ssl']->value) {?><?php echo $_smarty_tpl->tpl_vars['base_dir_ssl']->value;?>
+<?php if ($_valid && !is_callable('content_57ea2cc11f10d8_81487010')) {function content_57ea2cc11f10d8_81487010($_smarty_tpl) {?><div id="header_logo">                                    <a href="<?php if (isset($_smarty_tpl->tpl_vars['force_ssl']->value)&&$_smarty_tpl->tpl_vars['force_ssl']->value) {?><?php echo $_smarty_tpl->tpl_vars['base_dir_ssl']->value;?>
 <?php } else { ?><?php echo $_smarty_tpl->tpl_vars['base_dir']->value;?>
 <?php }?>" title="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['shop_name']->value, ENT_QUOTES, 'UTF-8', true);?>
 ">                                        <img class="logo img-responsive" src="<?php echo $_smarty_tpl->tpl_vars['logo_url']->value;?>
