@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-27 15:46:20
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-29 22:50:53
          compiled from "C:\xampp\htdocs\parissara_com\modules\leoslideshow\views\templates\front\leoslideshow.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:3083357ea31dc56aed5-60188436%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2327157ed385d7c5665-90273085%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6c53733f21f31dccf474146317199ba66fcb8a06' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\modules\\leoslideshow\\views\\templates\\front\\leoslideshow.tpl',
-      1 => 1474858309,
+      1 => 1474879708,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '3083357ea31dc56aed5-60188436',
+  'nocache_hash' => '2327157ed385d7c5665-90273085',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57ea31dc8b9e09_18025121',
+  'unifunc' => 'content_57ed385e564a15_60912542',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57ea31dc8b9e09_18025121')) {function content_57ea31dc8b9e09_18025121($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\modifier.replace.php';
+<?php if ($_valid && !is_callable('content_57ed385e564a15_60912542')) {function content_57ed385e564a15_60912542($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\modifier.replace.php';
 ?>
 <?php $_smarty_tpl->tpl_vars["class_group"] = new Smarty_variable("iview-group-".((string)$_smarty_tpl->tpl_vars['sliderParams']->value['id_leoslideshow_groups']), null, 0);?>
 <?php if ($_smarty_tpl->tpl_vars['sliderParams']->value['slider_class']=="boxed") {?>

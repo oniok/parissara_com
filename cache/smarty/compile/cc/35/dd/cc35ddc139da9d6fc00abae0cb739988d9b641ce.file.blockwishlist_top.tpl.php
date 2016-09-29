@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-27 15:24:25
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-29 22:56:38
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\modules\blockwishlist\blockwishlist_top.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2683457ea2cb9656f99-27822251%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:26957ed39b6eeb4b1-30205588%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'cc35ddc139da9d6fc00abae0cb739988d9b641ce' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\themes\\leo_mode\\modules\\blockwishlist\\blockwishlist_top.tpl',
-      1 => 1474858338,
+      1 => 1474879718,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2683457ea2cb9656f99-27822251',
+  'nocache_hash' => '26957ed39b6eeb4b1-30205588',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57ea2cb96b3d05_25826477',
+  'unifunc' => 'content_57ed39b70a7d32_07332158',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57ea2cb96b3d05_25826477')) {function content_57ea2cb96b3d05_25826477($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57ed39b70a7d32_07332158')) {function content_57ed39b70a7d32_07332158($_smarty_tpl) {?>
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('wishlistProductsIds'=>$_smarty_tpl->tpl_vars['wishlist_products']->value),$_smarty_tpl);?>
 <?php $_smarty_tpl->smarty->_tag_stack[] = array('addJsDefL', array('name'=>'loggin_required')); $_block_repeat=true; echo $_smarty_tpl->smarty->registered_plugins['block']['addJsDefL'][0][0]->addJsDefL(array('name'=>'loggin_required'), null, $_smarty_tpl, $_block_repeat);while ($_block_repeat) { ob_start();?>
 <?php echo smartyTranslate(array('s'=>'You must be logged in to manage your wishlist.','mod'=>'blockwishlist','js'=>1),$_smarty_tpl);?>

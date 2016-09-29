@@ -76,7 +76,12 @@
 #contact_info a{
         color: #000;
 }
-
+#buy_block .group-btn{
+	display: none;
+}
+.more_info_default{
+        display: none;
+}
 h7{
        font-family: "Lato",sans-serif !important;
        font-size:16px !important;

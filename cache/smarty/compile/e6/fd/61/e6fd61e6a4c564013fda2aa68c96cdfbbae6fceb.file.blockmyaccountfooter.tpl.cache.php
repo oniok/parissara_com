@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-27 15:24:28
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-29 22:50:49
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\modules\blockmyaccountfooter\blockmyaccountfooter.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1355857ea2cbc38b4b2-16148683%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1728257ed38590c99d9-56638696%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e6fd61e6a4c564013fda2aa68c96cdfbbae6fceb' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\themes\\leo_mode\\modules\\blockmyaccountfooter\\blockmyaccountfooter.tpl',
-      1 => 1474858337,
+      1 => 1474879717,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1355857ea2cbc38b4b2-16148683',
+  'nocache_hash' => '1728257ed38590c99d9-56638696',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57ea2cbc435236_72393194',
+  'unifunc' => 'content_57ed3859276ff9_11571228',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57ea2cbc435236_72393194')) {function content_57ea2cbc435236_72393194($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57ed3859276ff9_11571228')) {function content_57ed3859276ff9_11571228($_smarty_tpl) {?>
 
 <!-- Block myaccount module -->
 <div class="footer-block block">

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-27 15:24:25
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-29 22:56:39
          compiled from "C:\xampp\htdocs\parissara_com\modules\appagebuilder\views\templates\hook\ApRow.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:3183357ea2cb9c47aa0-32357121%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2920057ed39b752a4e3-88984174%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'c0fae6228e7f0f8e1275b301a4dbb9f47198bd68' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\modules\\appagebuilder\\views\\templates\\hook\\ApRow.tpl',
-      1 => 1474858294,
+      1 => 1474879701,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '3183357ea2cb9c47aa0-32357121',
+  'nocache_hash' => '2920057ed39b752a4e3-88984174',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57ea2cb9db3e28_76659413',
+  'unifunc' => 'content_57ed39b77763c3_48361522',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57ea2cb9db3e28_76659413')) {function content_57ea2cb9db3e28_76659413($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57ed39b77763c3_48361522')) {function content_57ed39b77763c3_48361522($_smarty_tpl) {?>
 <!-- @file modules\appagebuilder\views\templates\hook\ApRow -->
 <?php if (isset($_smarty_tpl->tpl_vars['formAtts']->value['container'])&&$_smarty_tpl->tpl_vars['formAtts']->value['container']) {?>
 <div class="wrapper" <?php if (isset($_smarty_tpl->tpl_vars['formAtts']->value['bg_config'])&&$_smarty_tpl->tpl_vars['formAtts']->value['bg_config']=="fullwidth"&&isset($_smarty_tpl->tpl_vars['formAtts']->value['bg_data'])&&$_smarty_tpl->tpl_vars['formAtts']->value['bg_data']) {?>style="background:<?php echo $_smarty_tpl->tpl_vars['formAtts']->value['bg_data'];?>

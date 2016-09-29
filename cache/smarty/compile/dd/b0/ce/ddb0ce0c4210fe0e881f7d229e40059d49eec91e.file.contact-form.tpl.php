@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-27 15:24:29
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-29 22:56:31
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\contact-form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1684557ea2cbd2e4634-22427567%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1398157ed39af505a52-96102019%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'ddb0ce0c4210fe0e881f7d229e40059d49eec91e' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\themes\\leo_mode\\contact-form.tpl',
-      1 => 1474964319,
+      1 => 1475079138,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1684557ea2cbd2e4634-22427567',
+  'nocache_hash' => '1398157ed39af505a52-96102019',
   'function' => 
   array (
   ),
@@ -42,9 +42,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57ea2cbd5c32d6_12259227',
+  'unifunc' => 'content_57ed39afa555a1_13786676',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57ea2cbd5c32d6_12259227')) {function content_57ea2cbd5c32d6_12259227($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57ed39afa555a1_13786676')) {function content_57ed39afa555a1_13786676($_smarty_tpl) {?>
 <?php $_smarty_tpl->_capture_stack[0][] = array('path', null, null); ob_start(); ?><?php echo smartyTranslate(array('s'=>'Contact'),$_smarty_tpl);?>
 <?php list($_capture_buffer, $_capture_assign, $_capture_append) = array_pop($_smarty_tpl->_capture_stack[0]);
 if (!empty($_capture_buffer)) {

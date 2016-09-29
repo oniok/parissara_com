@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-09-27 15:24:30
+<?php /* Smarty version Smarty-3.1.19, created on 2016-09-29 22:56:43
          compiled from "C:\xampp\htdocs\parissara_com\themes\leo_mode\header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1480057ea2cbe0bc4b5-44509847%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:3257657ed39bb424926-96102709%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6656306a66b8399edcb2acc398d5817e8a57ce47' => 
     array (
       0 => 'C:\\xampp\\htdocs\\parissara_com\\themes\\leo_mode\\header.tpl',
-      1 => 1474858331,
+      1 => 1474879716,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1480057ea2cbe0bc4b5-44509847',
+  'nocache_hash' => '3257657ed39bb424926-96102709',
   'function' => 
   array (
   ),
@@ -69,9 +69,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57ea2cbe543ac8_27965270',
+  'unifunc' => 'content_57ed39bba6a920_04405734',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57ea2cbe543ac8_27965270')) {function content_57ea2cbe543ac8_27965270($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\function.implode.php';
+<?php if ($_valid && !is_callable('content_57ed39bba6a920_04405734')) {function content_57ed39bba6a920_04405734($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'C:\\xampp\\htdocs\\parissara_com\\tools\\smarty\\plugins\\function.implode.php';
 ?>
 <!DOCTYPE HTML>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"<?php if (isset($_smarty_tpl->tpl_vars['language_code']->value)&&$_smarty_tpl->tpl_vars['language_code']->value) {?> lang="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['language_code']->value, ENT_QUOTES, 'UTF-8', true);?>
